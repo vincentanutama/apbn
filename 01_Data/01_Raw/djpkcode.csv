@@ -1,0 +1,135 @@
+Var1,Freq,Code
+Belanja Pegawai,6260,APBD.EXP.IND.CIV
+Belanja Pegawai,6260,APBD.EXP.DIR.CIV
+Dana alokasi umum,6245,APBD.REV.TRA.DAU
+Dana Alokasi Umum,1788,TKDD.DAU.DAU
+DAU,1788,TKDD.DAU.SUM
+Belanja,6272,APBD.EXP.TOTAL
+Belanja Barang dan Jasa,6272,APBD.EXP.DIR.GDS
+Belanja Langsung,6272,APBD.EXP.DIR.SUM
+Belanja Modal,6272,APBD.EXP.DIR.CAP
+Belanja Tidak Langsung,6272,APBD.EXP.IND.SUM
+Lain-lain pendapatan daerah yang sah,6272,APBD.REV.OTH.SUM
+PAD,6272,APBD.REV.OWN.SUM
+Pembiayaan,6272,APBD.FIN.TOTAL
+Pendapatan,6272,APBD.REV.TOTAL
+Daper,6269,APBD.REV.TRA.SUM
+Lain-lain PAD yang sah,6267,APBD.REV.OWN.OTH
+Dana bagi hasil pajak/bagi hasil bukan pajak,6266,APBD.REV.TRA.DBH
+Belanja Hibah,6249,APBD.EXP.IND.GRA
+Retribusi daerah,6248,APBD.REV.OWN.RET
+Belanja tidak terduga,6247,APBD.EXP.IND.ACC
+Pajak daerah,6229,APBD.REV.OWN.TAX
+Penerimaan,6205,APBD.FIN.REV.SUM
+Dana alokasi khusus,6201,APBD.REV.TRA.DAK
+SiLPA TA sebelumnya,6176,APBD.FIN.REV.REM
+Belanja Bantuan keuangan kpd Prop/Kab/Kota dan Pemdes,6108,APBD.EXP.IND.FIN
+Dana penyesuaian dan otonomi khusus,6002,APBD.REV.OTH.DEC
+Belanja Bantuan sosial,5971,APBD.EXP.IND.SOC
+Hasil pengelolaan kekayaan daerah yang dipisahkan,5969,APBD.REV.OWN.ASS
+Dana bagi hasil pajak dari Propinsi dan Pemda lainnya,5929,APBD.REV.OTH.DBH
+Pengeluaran,5622,APBD.FIN.EXP.SUM
+Penyertaan Modal (Investasi) Daerah,5186,APBD.FIN.EXP.CAP
+Hibah,4282,APBD.REV.OTH.GRA
+Belanja Bagi hasil kpd Prop/Kab/Kota dan Pemdes,3865,APBD.EXP.IND.DBH
+Lain-lain,3766,APBD.REV.OTH.OTH
+Bantuan keuangan dari Propinsi atau Pemda lainnya,3715,APBD.REV.OTH.GOV
+Pembayaran Pokok Utang,3027,APBD.FIN.EXP.DEB
+Dana Desa,2932,TKDD.DES.SUM
+Penerimaan Kembali Pemberian Pinjaman,2763,APBD.FIN.REV.LEN
+Belanja Subsidi,2205,APBD.EXP.IND.SUB
+Belanja Bunga,2041,APBD.EXP.IND.INT
+DAK FISIK,1792,TKDD.DAK.FIS.SUM
+DAK NON FISIK,1792,TKDD.DAK.NON.SUM
+Dana Bantuan Operasional Kesehatan,1792,TKDD.DAK.NON.HEA
+DBH,1792,TKDD.DBH.SUM
+Total Transfer ke daerah dan Dana Desa,1792,TKDD.TOTAL
+Transfer ke Daerah,1792,TKDD.TOTAL
+Dana Pelayanan Administrasi Kependudukan,1788,TKDD.DAK.NON.POP
+Dana Tunjangan Profesi Guru PNSD,1777,TKDD.DAK.NON.EDU.REG
+Penerimaan Pinjaman Daerah dan Obligasi Daerah,1753,APBD.FIN.REV.BON
+Dana Bantuan Operasional Penyelenggaraan - Pendidikan Anak Usia Dini,1693,TKDD.DAK.NON.EDU.CHI
+Dana Bantuan Operasional Keluarga Berencana,1686,TKDD.DAK.NON.FAM
+Dana Tambahan Penghasilan Guru Pegawai Negeri Sipil,1680,TKDD.DAK.NON.EDU.ADD
+DANA DESA,1466,TKDD.DES.TOTAL
+Pemberian Pinjaman Daerah,1405,APBD.FIN.EXP.LEN
+Dana Tunjangan Khusus Guru PNSD di Daerah Khusus,1253,TKDD.DAK.NON.EDU.SPC
+Pembentukan Dana Cadangan,1251,APBD.FIN.EXP.SEC
+DBH PPh Pasal 21,1217,TKDD.DBH.PPH.P21
+DBH PPh Pasal 25/29 OP,1217,TKDD.DBH.PPH.P25
+Dana Insentif Daerah,1207,TKDD.DID.SUM
+DID,1207,TKDD.DID.TOTAL
+Dana Alokasi Khusus Penugasan,1204,TKDD.DAK.FIS.OPR
+DBH SDA Kehutanan - PSDH,1193,TKDD.DBH.SDA.FOR
+DBH SDA Minerba - Royalti,1165,TKDD.DBH.SDA.MIN.ROY
+Dana Bantuan Operasional Penyelenggaraan (BOP) Pendidikan Kesetaraan,1151,TKDD.DAK.NON.EDU.EQU
+DBH PBB Bagi Rata,1151,TKDD.DBH.PBB.EQU
+DBH SDA Perikanan,1151,TKDD.DBH.SDA.FIS
+DBH PBB Bagian Daerah untuk Kabupaten/Kota,1147,TKDD.DBH.PBB.REG
+DBH PBB Biaya Pemungutan untuk Kabupaten/Kota,1147,TKDD.DBH.PBB.FIN
+Pencairan dana cadangan,1085,APBD.FIN.REV.SEC
+Pengeluaran Perhitungan Pihak Ketiga,976,APBD.FIN.EXP.THI
+Dana darurat,879,APBD.REV.OTH.EMR
+Hasil Penjualan Kekayaan Daerah yang Dipisahkan,815,APBD.FIN.REV.RES
+DBH SDA Minyak Bumi 15%,796,TKDD.DBH.SDA.OIL.P15
+Dana Pelayanan Kepariwisataan,785,TKDD.DAK.NON.TOU
+Pembayaran Kegiatan Lanjutan,725,APBD.FIN.EXP.CON
+DBH SDA Minerba - Iuran Tetap,704,TKDD.DBH.SDA.MIN.FIX
+DBH SDA Gas Bumi 30%,701,TKDD.DBH.SDA.GAS.P30
+DBH SDA Minyak Bumi 0.5%,685,TKDD.DBH.SDA.OIL.P05
+Penerimaan Kembali Investasi Dana Bergulir,662,APBD.FIN.REV.INV
+Penerimaan piutang daerah,648,APBD.FIN.REV.DEB
+Dana Alokasi Khusus Reguler,645,TKDD.DAK.FIS.REG
+Dana Peningkatan Kapasitas Koperasi,644,TKDD.DAK.NON.COP
+"DBH SDA Gas Bumi 0,5%",613,TKDD.DBH.SDA.GAS.P05
+DBH SDA Panas Bumi - Iuran Tetap,580,TKDD.DBH.SDA.GEO.FIX
+Transfer DBH PPh Pasal 21,575,TKDD.DBH.PPH.P21
+Transfer DBH PPh Pasal 25/29 OP,575,TKDD.DBH.PPH.P25
+Belanja Dana Alokasi Khusus Penugasan,574,TKDD.DAK.FIS.OPR
+Belanja Dana Alokasi Khusus Reguler,573,TKDD.DAK.FIS.REG
+Dana Alokasi Khusus,572,TKDD.DAK.FIS.DAK
+Transfer DBH Kehutanan - PSDH,562,TKDD.DBH.SDA.FOR
+Transfer DBH Pertambangan Umum - Royalti,554,TKDD.DBH.SDA.MIN.ROY
+Transfer DBH PBB Bagian Pemerintah Pusat yang Dikembalikan Sama Rata ke Kabupaten/Kota,542,TKDD.DBH.PBB.EQU
+Transfer DBH Perikanan,542,TKDD.DBH.SDA.FIS
+Transfer DBH Biaya/Upah Pungut PBB untuk Kabupaten/kota,540,TKDD.DBH.PBB.FIN
+Transfer DBH PBB untuk Kabupaten/Kota,540,TKDD.DBH.PBB.REG
+Dana Alokasi Khusus Affirmasi,488,TKDD.DAK.FIS.AFF
+DBH Cukai Hasil Tembakau,430,TKDD.DBH.SDA.TOB
+Transfer DBH Cukai Hasil Tembakau,372,TKDD.DBH.SDA.TOB
+Transfer DBH Minyak Bumi,368,TKDD.DBH.SDA.OIL.P15
+DBH SDA Kehutanan - Dana Reboisasi,355,TKDD.DBH.SDA.FOR.REB
+Transfer DBH Pertambangan Umum - Iuran Tetap,344,TKDD.DBH.SDA.MIN.FIX
+Transfer DBH Gas Bumi,331,TKDD.DBH.SDA.GAS.P30
+Transfer DBH Minyak Bumi 0.5%,328,TKDD.DBH.SDA.OIL.P05
+Transfer DBH Gas Bumi 0.5%,291,TKDD.DBH.SDA.GAS.P05
+Transfer DBH Pertambangan Panas Bumi - Iuran Tetap,281,TKDD.DBH.SDA.GEO.FIX
+Dana Bantuan Operasioanal Penyelenggaraan (BOP) Museum dan Taman Budaya,253,TKDD.DAK.NON.ART
+Belanja Dana Alokasi Khusus Affirmasi,250,TKDD.DAK.FIS.AFF
+DBH SDA Kehutanan - IIUPH,212,TKDD.DBH.SDA.FOR.IIU
+Dana Bantuan Operasional Sekolah,204,TKDD.DAK.NON.EDU.BOS
+DBH SDA Panas Bumi - Iuran Produksi,193,TKDD.DBH.SDA.GEO.PRO
+DBH PBB Bagian Daerah untuk Provinsi,136,TKDD.DBH.PBB.PROV.REV
+DBH PBB Biaya Pemungutan untuk Provinsi,136,TKDD.DBH.PBB.PROV.COS
+Transfer DBH Kehutanan - IIUPH/IHPH,135,TKDD.DBH.SDA.FOR.IIU
+DBH SDA Panas Bumi - Setoran Bagian Pemerintah,134,TKDD.DBH.SDA.GEO.GOV
+Pendapatan Lainnya,79,APBD.REV.OTH.OTH
+Transfer DBH Biaya/Upah Pungut PBB untuk Propinsi,68,TKDD.DBH.PBB.PROV.COS
+Transfer DBH PBB untuk Propinsi,68,TKDD.DBH.PBB.PROV.REV
+Transfer DBH Pertambangan Panas Bumi - Setoran Bagian Pemerintah,63,TKDD.DBH.SDA.GEO.GOV
+Transfer DBH Kehutanan - Dana Reboisasi,59,TKDD.DBH.SDA.FOR.REB
+Transfer DBH Pertambangan Panas Bumi - Iuran Produksi (Royalti),24,TKDD.DBH.SDA.GEO.PRO
+OTSUS,18,TKDD.OTS.TOTAL
+DBH SDA Gas Bumi Otonomi Khusus,8,TKDD.DBH.SDA.GAS.OTS
+DBH SDA Minyak Bumi Otonomi Khusus,8,TKDD.DBH.SDA.OIL.OTS
+Dana Keistimewaan Daerah Istimewa Yogyakarta,6,TKDD.DIY.SUM
+Dana Otonomi Khusus Provinsi Aceh,6,TKDD.OTS.SUM
+Dana Otonomi Khusus Provinsi Papua,6,TKDD.OTS.SUM
+Dana Otonomi Khusus Provinsi Papua Barat,6,TKDD.OTS.SUM
+Dana Tambahan Infrastruktur Provinsi Papua,6,TKDD.OTS.INF
+Dana Tambahan Infrastruktur Provinsi Papua Barat,6,TKDD.OTS.INF
+KEISTIMEWAAN DIY,6,TKDD.DIY.TOTAL
+Tambahan Transfer DBH Gas Bumi Dalam Rangka Otsus,4,TKDD.DBH.SDA.GAS.OTS
+Tambahan Transfer DBH Minyak Bumi Dalam Rangka Otonomi Khusus,4,TKDD.DBH.SDA.OIL.OTS
+Dana Alokasi Khusus Infrastruktur Publik Daerah,2,TKDD.DAK.FIS.INF
+Dana Bantuan Biaya Layanan Pengolahan Sampah (BLPS),2,TKDD.DAK.NON.WST
