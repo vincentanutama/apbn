@@ -1,0 +1,577 @@
+Kab,bpscode,kabcode,dagricode
+Kab. Aceh Barat,11,1107,11.05
+Kab. Aceh Barat Daya,11,1112,11.12
+Kab. Aceh Besar,11,1108,11.06
+Kab. Aceh Jaya,11,1116,11.14
+Kab. Aceh Selatan,11,1103,11.01
+Kab. Aceh Singkil,11,1102,11.1
+Kab. Aceh Tamiang,11,1114,11.16
+Kab. Aceh Tengah,11,1106,11.04
+Kab. Aceh Tenggara,11,1104,11.02
+Kab. Aceh Timur,11,1105,11.03
+Kab. Aceh Utara,11,1111,11.08
+Kab. Bener Meriah,11,1117,11.17
+Kab. Bireuen,11,1110,11.11
+Kab. Gayo Lues,11,1113,11.13
+Kab. Nagan Raya,11,1115,11.15
+Kab. Pidie,11,1109,11.07
+Kab. Pidie Jaya,11,1118,11.18
+Kab. Simeulue,11,1101,11.09
+Kota Banda Aceh,11,1171,11.71
+Kota Langsa,11,1173,11.74
+Kota Lhokseumawe,11,1174,11.73
+Kota Sabang,11,1172,11.72
+Kota Subulussalam,11,1175,11.75
+Prov. Aceh,11,1100,11
+Semua pemda,11,1199,11.99
+Kab. Asahan,12,1208,12.09
+Kab. Batu Bara,12,1219,12.19
+Kab. Dairi,12,1210,12.11
+Kab. Deli Serdang,12,1212,12.07
+Kab. Humbang Hasundutan,12,1215,12.16
+Kab. Karo,12,1211,12.06
+Kab. Labuhanbatu,12,1207,12.1
+Kab. Labuhanbatu Selatan,12,1222,12.22
+Kab. Labuhanbatu Utara,12,1223,12.23
+Kab. Langkat,12,1213,12.05
+Kab. Mandailing Natal,12,1202,12.13
+Kab. Nias,12,1201,12.04
+Kab. Nias Barat,12,1225,12.25
+Kab. Nias Selatan,12,1214,12.14
+Kab. Nias Utara,12,1224,12.24
+Kab. Padang Lawas,12,1221,12.21
+Kab. Padang Lawas Utara,12,1220,12.2
+Kab. Pakpak Bharat,12,1216,12.15
+Kab. Samosir,12,1217,12.17
+Kab. Serdang Bedagai,12,1218,12.18
+Kab. Simalungun,12,1209,12.08
+Kab. Tapanuli Selatan,12,1203,12.03
+Kab. Tapanuli Tengah,12,1204,12.01
+Kab. Tapanuli Utara,12,1205,12.02
+Kab. Toba Samosir,12,1206,12.12
+Kota Binjai,12,1276,12.75
+Kota Gunungsitoli,12,1278,12.78
+Kota Medan,12,1275,12.71
+Kota Padang Sidempuan,12,1277,12.77
+Kota Pematang Siantar,12,1273,12.72
+Kota Sibolga,12,1271,12.73
+Kota Tanjung Balai,12,1272,12.74
+Kota Tebing Tinggi,12,1274,12.76
+Prov. Sumatera Utara,12,1200,12
+Semua pemda,12,1299,12.99
+Kab. Agam,13,1307,13.06
+Kab. Dharmasraya,13,1311,13.1
+Kab. Kepulauan Mentawai,13,1301,13.09
+Kab. Limapuluh Kota,13,1308,13.07
+Kab. Padang Pariaman,13,1306,13.05
+Kab. Pasaman,13,1309,13.08
+Kab. Pasaman Barat,13,1312,13.12
+Kab. Pesisir Selatan,13,1302,13.01
+Kab. Sijunjung,13,1304,13.03
+Kab. Solok,13,1303,13.02
+Kab. Solok Selatan,13,1310,13.11
+Kab. Tanah Datar,13,1305,13.04
+Kota Bukit Tinggi,13,1375,13.75
+Kota Padang,13,1371,13.71
+Kota Padang Panjang,13,1374,13.74
+Kota Pariaman,13,1377,13.77
+Kota Payakumbuh,13,1376,13.76
+Kota Sawahlunto,13,1373,13.73
+Kota Solok,13,1372,13.72
+Prov. Sumatera Barat,13,1300,13
+Semua pemda,13,1399,13.99
+Kab. Bengkalis,14,1408,14.03
+Kab. Indragiri Hilir,14,1403,14.04
+Kab. Indragiri Hulu,14,1402,14.02
+Kab. Kampar,14,1406,14.01
+Kab. Kepulauan Meranti,14,1410,14.1
+Kab. Kuantan Singingi,14,1401,14.09
+Kab. Pelalawan,14,1404,14.05
+Kab. Rokan Hilir,14,1409,14.07
+Kab. Rokan Hulu,14,1407,14.06
+Kab. Siak,14,1405,14.08
+Kota Dumai,14,1473,14.72
+Kota Pekanbaru,14,1471,14.71
+Prov. Riau,14,1400,14
+Semua pemda,14,1499,14.99
+Kab. Batang Hari,15,1504,15.04
+Kab. Bungo,15,1509,15.08
+Kab. Kerinci,15,1501,15.01
+Kab. Merangin,15,1502,15.02
+Kab. Muaro Jambi,15,1505,15.05
+Kab. Sarolangun,15,1503,15.03
+Kab. Tanjung Jabung Barat,15,1507,15.06
+Kab. Tanjung Jabung Timur,15,1506,15.07
+Kab. Tebo,15,1508,15.09
+Kota Jambi,15,1571,15.71
+Kota Sungai Penuh,15,1572,15.72
+Prov. Jambi,15,1500,15
+Semua pemda,15,1599,15.99
+Kab. Banyuasin,16,1607,16.07
+Kab. Empat Lawang,16,1611,16.11
+Kab. Lahat,16,1604,16.04
+Kab. Muara Enim,16,1603,16.03
+Kab. Musi Banyuasin,16,1606,16.06
+Kab. Musi Rawas,16,1605,16.05
+Kab. Musi Rawas Utara,16,1613,16.13
+Kab. Ogan Ilir,16,1610,16.1
+Kab. Ogan Komering Ilir,16,1602,16.02
+Kab. Ogan Komering Ulu,16,1601,16.01
+Kab. OKU Selatan,16,1608,16.09
+Kab. OKU Timur,16,1609,16.08
+Kab. Penukal Abab Lematang Ilir,16,1612,16.12
+Kota Lubuk Linggau,16,1674,16.73
+Kota Pagar Alam,16,1673,16.72
+Kota Palembang,16,1671,16.71
+Kota Prabumulih,16,1672,16.74
+Prov. Sumatera Selatan,16,1600,16
+Semua pemda,16,1699,16.99
+Kab. Bengkulu Selatan,17,1701,17.01
+Kab. Bengkulu Tengah,17,1709,17.09
+Kab. Bengkulu Utara,17,1703,17.03
+Kab. Kaur,17,1704,17.04
+Kab. Kepahiang,17,1708,17.08
+Kab. Lebong,17,1707,17.07
+Kab. Mukomuko,17,1706,17.06
+Kab. Rejang Lebong,17,1702,17.02
+Kab. Seluma,17,1705,17.05
+Kota Bengkulu,17,1771,17.71
+Prov. Bengkulu,17,1700,17
+Semua pemda,17,1799,17.99
+Kab. Lampung Barat,18,1801,18.04
+Kab. Lampung Selatan,18,1803,18.01
+Kab. Lampung Tengah,18,1805,18.02
+Kab. Lampung Timur,18,1804,18.07
+Kab. Lampung Utara,18,1806,18.03
+Kab. Mesuji,18,1811,18.11
+Kab. Pesawaran,18,1809,18.09
+Kab. Pesisir Barat,18,1813,18.13
+Kab. Pringsewu,18,1810,18.1
+Kab. Tanggamus,18,1802,18.06
+Kab. Tulang Bawang,18,1808,18.05
+Kab. Tulang Bawang Barat,18,1812,18.12
+Kab. Way Kanan,18,1807,18.08
+Kota Bandar Lampung,18,1871,18.71
+Kota Metro,18,1872,18.72
+Prov. Lampung,18,1800,18
+Semua pemda,18,1899,18.99
+Kab. Bangka,19,1901,19.01
+Kab. Bangka Barat,19,1903,19.05
+Kab. Bangka Selatan,19,1905,19.03
+Kab. Bangka Tengah,19,1904,19.04
+Kab. Belitung,19,1902,19.02
+Kab. Belitung Timur,19,1906,19.06
+Kota Pangkal Pinang,19,1971,19.71
+Prov. Bangka Belitung,19,1900,19
+Semua pemda,19,1999,19.99
+Kab. Bintan,21,2102,21.01
+Kab. Karimun,21,2101,21.02
+Kab. Kepulauan Anambas,21,2105,21.05
+Kab. Lingga,21,2104,21.04
+Kab. Natuna,21,2103,21.03
+Kota Batam,21,2171,21.71
+Kota Tanjung Pinang,21,2172,21.72
+Prov. Kepulauan Riau,21,2100,21
+Semua pemda,21,2199,21.99
+Prov. DKI Jakarta,31,3100,31
+Semua pemda,31,3199,31.99
+Kab. Bandung,32,3204,32.04
+Kab. Bandung Barat,32,3217,32.17
+Kab. Bekasi,32,3216,32.16
+Kab. Bogor,32,3201,32.01
+Kab. Ciamis,32,3207,32.07
+Kab. Cianjur,32,3203,32.03
+Kab. Cirebon,32,3209,32.09
+Kab. Garut,32,3205,32.05
+Kab. Indramayu,32,3212,32.12
+Kab. Karawang,32,3215,32.15
+Kab. Kuningan,32,3208,32.08
+Kab. Majalengka,32,3210,32.1
+Kab. Pangandaran,32,3218,32.18
+Kab. Purwakarta,32,3214,32.14
+Kab. Subang,32,3213,32.13
+Kab. Sukabumi,32,3202,32.02
+Kab. Sumedang,32,3211,32.11
+Kab. Tasikmalaya,32,3206,32.06
+Kota Bandung,32,3273,32.73
+Kota Banjar,32,3279,32.79
+Kota Bekasi,32,3275,32.75
+Kota Bogor,32,3271,32.71
+Kota Cimahi,32,3277,32.77
+Kota Cirebon,32,3274,32.74
+Kota Depok,32,3276,32.76
+Kota Sukabumi,32,3272,32.72
+Kota Tasikmalaya,32,3278,32.78
+Prov. Jawa Barat,32,3200,32
+Semua pemda,32,3299,32.99
+Kab. Banjarnegara,33,3304,33.04
+Kab. Banyumas,33,3302,33.02
+Kab. Batang,33,3325,33.25
+Kab. Blora,33,3316,33.16
+Kab. Boyolali,33,3309,33.09
+Kab. Brebes,33,3329,33.29
+Kab. Cilacap,33,3301,33.01
+Kab. Demak,33,3321,33.21
+Kab. Grobogan,33,3315,33.15
+Kab. Jepara,33,3320,33.2
+Kab. Karanganyar,33,3313,33.13
+Kab. Kebumen,33,3305,33.05
+Kab. Kendal,33,3324,33.24
+Kab. Klaten,33,3310,33.1
+Kab. Kudus,33,3319,33.19
+Kab. Magelang,33,3308,33.08
+Kab. Pati,33,3318,33.18
+Kab. Pekalongan,33,3326,33.26
+Kab. Pemalang,33,3327,33.27
+Kab. Purbalingga,33,3303,33.03
+Kab. Purworejo,33,3306,33.06
+Kab. Rembang,33,3317,33.17
+Kab. Semarang,33,3322,33.22
+Kab. Sragen,33,3314,33.14
+Kab. Sukoharjo,33,3311,33.11
+Kab. Tegal,33,3328,33.28
+Kab. Temanggung,33,3323,33.23
+Kab. Wonogiri,33,3312,33.12
+Kab. Wonosobo,33,3307,33.07
+Kota Magelang,33,3371,33.71
+Kota Pekalongan,33,3375,33.75
+Kota Salatiga,33,3373,33.73
+Kota Semarang,33,3374,33.74
+Kota Surakarta,33,3372,33.72
+Kota Tegal,33,3376,33.76
+Prov. Jawa Tengah,33,3300,33
+Semua pemda,33,3399,33.99
+Kab. Bantul,34,3402,34.02
+Kab. Gunung Kidul,34,3403,34.03
+Kab. Kulon Progo,34,3401,34.01
+Kab. Sleman,34,3404,34.04
+Kota Yogyakarta,34,3471,34.71
+Prov. DI Yogyakarta,34,3400,34
+Semua pemda,34,3499,34.99
+Kab. Bangkalan,35,3526,35.26
+Kab. Banyuwangi,35,3510,35.1
+Kab. Blitar,35,3505,35.05
+Kab. Bojonegoro,35,3522,35.22
+Kab. Bondowoso,35,3511,35.11
+Kab. Gresik,35,3525,35.25
+Kab. Jember,35,3509,35.09
+Kab. Jombang,35,3517,35.17
+Kab. Kediri,35,3506,35.06
+Kab. Lamongan,35,3524,35.24
+Kab. Lumajang,35,3508,35.08
+Kab. Madiun,35,3519,35.19
+Kab. Magetan,35,3520,35.2
+Kab. Malang,35,3507,35.07
+Kab. Mojokerto,35,3516,35.16
+Kab. Nganjuk,35,3518,35.18
+Kab. Ngawi,35,3521,35.21
+Kab. Pacitan,35,3501,35.01
+Kab. Pamekasan,35,3528,35.28
+Kab. Pasuruan,35,3514,35.14
+Kab. Ponorogo,35,3502,35.02
+Kab. Probolinggo,35,3513,35.13
+Kab. Sampang,35,3527,35.27
+Kab. Sidoarjo,35,3515,35.15
+Kab. Situbondo,35,3512,35.12
+Kab. Sumenep,35,3529,35.29
+Kab. Trenggalek,35,3503,35.03
+Kab. Tuban,35,3523,35.23
+Kab. Tulungagung,35,3504,35.04
+Kota Batu,35,3579,35.79
+Kota Blitar,35,3572,35.72
+Kota Kediri,35,3571,35.71
+Kota Madiun,35,3577,35.77
+Kota Malang,35,3573,35.73
+Kota Mojokerto,35,3576,35.76
+Kota Pasuruan,35,3575,35.75
+Kota Probolinggo,35,3574,35.74
+Kota Surabaya,35,3578,35.78
+Prov. Jawa Timur,35,3500,35
+Semua pemda,35,3599,35.99
+Kab. Lebak,36,3602,36.02
+Kab. Pandeglang,36,3601,36.01
+Kab. Serang,36,3604,36.04
+Kab. Tangerang,36,3603,36.03
+Kota Cilegon,36,3672,36.72
+Kota Serang,36,3673,36.73
+Kota Tangerang,36,3671,36.71
+Kota Tangerang Selatan,36,3674,36.74
+Prov. Banten,36,3600,36
+Semua pemda,36,3699,36.99
+Kab. Badung,51,5103,51.03
+Kab. Bangli,51,5106,51.06
+Kab. Buleleng,51,5108,51.08
+Kab. Gianyar,51,5104,51.04
+Kab. Jembrana,51,5101,51.01
+Kab. Karangasem,51,5107,51.07
+Kab. Klungkung,51,5105,51.05
+Kab. Tabanan,51,5102,51.02
+Kota Denpasar,51,5171,51.71
+Prov. Bali,51,5100,51
+Semua pemda,51,5199,51.99
+Kab. Bima,52,5206,52.06
+Kab. Dompu,52,5205,52.05
+Kab. Lombok Barat,52,5201,52.01
+Kab. Lombok Tengah,52,5202,52.02
+Kab. Lombok Timur,52,5203,52.03
+Kab. Lombok Utara,52,5208,52.08
+Kab. Sumbawa,52,5204,52.04
+Kab. Sumbawa Barat,52,5207,52.07
+Kota Bima,52,5272,52.72
+Kota Mataram,52,5271,52.71
+Prov. Nusa Tenggara Barat,52,5200,52
+Semua pemda,52,5299,52.99
+Kab. Alor,53,5307,53.05
+Kab. Belu,53,5306,53.04
+Kab. Ende,53,5311,53.08
+Kab. Flores Timur,53,5309,53.06
+Kab. Kupang,53,5303,53.01
+Kab. Lembata,53,5308,53.13
+Kab. Malaka,53,5321,53.21
+Kab. Manggarai,53,5313,53.1
+Kab. Manggarai Barat,53,5315,53.15
+Kab. Manggarai Timur,53,5319,53.19
+Kab. Nagekeo,53,5318,53.16
+Kab. Ngada,53,5312,53.09
+Kab. Rote Ndao,53,5314,53.14
+Kab. Sabu Raijua,53,5320,53.2
+Kab. Sikka,53,5310,53.07
+Kab. Sumba Barat,53,5301,53.12
+Kab. Sumba Barat Daya,53,5317,53.18
+Kab. Sumba Tengah,53,5316,53.17
+Kab. Sumba Timur,53,5302,53.11
+Kab. Timor Tengah Selatan,53,5304,53.02
+Kab. Timor Tengah Utara,53,5305,53.03
+Kota Kupang,53,5371,53.71
+Prov. Nusa Tenggara Timur,53,5300,53
+Semua pemda,53,5399,53.99
+Kab. Bengkayang,61,6102,61.07
+Kab. Kapuas Hulu,61,6108,61.06
+Kab. Kayong Utara,61,6111,61.11
+Kab. Ketapang,61,6106,61.04
+Kab. Kubu Raya,61,6112,61.12
+Kab. Landak,61,6103,61.08
+Kab. Melawi,61,6110,61.1
+Kab. Mempawah,61,6104,61.02
+Kab. Sambas,61,6101,61.01
+Kab. Sanggau,61,6105,61.03
+Kab. Sekadau,61,6109,61.09
+Kab. Sintang,61,6107,61.05
+Kota Pontianak,61,6171,61.71
+Kota Singkawang,61,6172,61.72
+Prov. Kalimantan Barat,61,6100,61
+Semua pemda,61,6199,61.99
+Kab. Barito Selatan,62,6204,62.04
+Kab. Barito Timur,62,6212,62.13
+Kab. Barito Utara,62,6205,62.05
+Kab. Gunung Mas,62,6211,62.1
+Kab. Kapuas,62,6203,62.03
+Kab. Katingan,62,6209,62.06
+Kab. Kotawaringin Barat,62,6201,62.01
+Kab. Kotawaringin Timur,62,6202,62.02
+Kab. Lamandau,62,6207,62.09
+Kab. Murung Raya,62,6213,62.12
+Kab. Pulang Pisau,62,6210,62.11
+Kab. Seruyan,62,6208,62.07
+Kab. Sukamara,62,6206,62.08
+Kota Palangkaraya,62,6271,62.71
+Prov. Kalimantan Tengah,62,6200,62
+Semua pemda,62,6299,62.99
+Kab. Balangan,63,6311,63.11
+Kab. Banjar,63,6303,63.03
+Kab. Barito Kuala,63,6304,63.04
+Kab. Hulu Sungai Selatan,63,6306,63.06
+Kab. Hulu Sungai Tengah,63,6307,63.07
+Kab. Hulu Sungai Utara,63,6308,63.08
+Kab. Kotabaru,63,6302,63.02
+Kab. Tabalong,63,6309,63.09
+Kab. Tanah Bumbu,63,6310,63.1
+Kab. Tanah Laut,63,6301,63.01
+Kab. Tapin,63,6305,63.05
+Kota Banjarbaru,63,6372,63.72
+Kota Banjarmasin,63,6371,63.71
+Prov. Kalimantan Selatan,63,6300,63
+Semua pemda,63,6399,63.99
+Kab. Berau,64,6405,64.03
+Kab. Kutai Barat,64,6402,64.07
+Kab. Kutai Kartanegara,64,6403,64.02
+Kab. Kutai Timur,64,6404,64.08
+Kab. Mahakam Ulu,64,6411,64.11
+Kab. Paser,64,6401,64.01
+Kab. Penajam Paser Utara,64,6409,64.09
+Kota Balikpapan,64,6471,64.71
+Kota Bontang,64,6474,64.74
+Kota Samarinda,64,6472,64.72
+Prov. Kalimantan Timur,64,6400,64
+Semua pemda,64,6499,64.99
+Kab. Bulungan,65,6502,65.01
+Kab. Malinau,65,6501,65.02
+Kab. Nunukan,65,6504,65.03
+Kab. Tana Tidung,65,6503,65.04
+Kota Tarakan,65,6571,65.71
+Prov. Kalimantan Utara,65,6500,65
+Semua pemda,65,6599,65.99
+Kab. Bolaang Mongondow,71,7101,71.01
+Kab. Bolaang Mongondow Selatan,71,7110,71.11
+Kab. Bolaang Mongondow Timur,71,7111,71.1
+Kab. Bolaang Mongondow Utara,71,7107,71.08
+Kab. Kep. Siau Tagulandang Biaro,71,7108,71.09
+Kab. Kepulauan Sangihe,71,7103,71.03
+Kab. Kepulauan Talaud,71,7104,71.04
+Kab. Minahasa,71,7102,71.02
+Kab. Minahasa Selatan,71,7105,71.05
+Kab. Minahasa Tenggara,71,7109,71.07
+Kab. Minahasa Utara,71,7106,71.06
+Kota Bitung,71,7172,71.72
+Kota Kotamobagu,71,7174,71.74
+Kota Manado,71,7171,71.71
+Kota Tomohon,71,7173,71.73
+Prov. Sulawesi Utara,71,7100,71
+Semua pemda,71,7199,71.99
+Kab. Banggai,72,7202,72.01
+Kab. Banggai Kepulauan,72,7201,72.07
+Kab. Banggai Laut,72,7211,72.11
+Kab. Buol,72,7207,72.05
+Kab. Donggala,72,7205,72.03
+Kab. Morowali,72,7203,72.06
+Kab. Morowali Utara,72,7212,72.12
+Kab. Parigi Moutong,72,7208,72.08
+Kab. Poso,72,7204,72.02
+Kab. Sigi,72,7210,72.1
+Kab. Tojo Una Una,72,7209,72.09
+Kab. Toli-Toli,72,7206,72.04
+Kota Palu,72,7271,72.71
+Prov. Sulawesi Tengah,72,7200,72
+Semua pemda,72,7299,72.99
+Kab. Bantaeng,73,7303,73.03
+Kab. Barru,73,7310,73.11
+Kab. Bone,73,7311,73.08
+Kab. Bulukumba,73,7302,73.02
+Kab. Enrekang,73,7316,73.16
+Kab. Gowa,73,7306,73.06
+Kab. Jeneponto,73,7304,73.04
+Kab. Kepulauan Selayar,73,7301,73.01
+Kab. Luwu,73,7317,73.17
+Kab. Luwu Timur,73,7325,73.24
+Kab. Luwu Utara,73,7322,73.22
+Kab. Maros,73,7308,73.09
+Kab. Pangkajene Kepulauan,73,7309,73.1
+Kab. Pinrang,73,7315,73.15
+Kab. Sidenreng Rappang,73,7314,73.14
+Kab. Sinjai,73,7307,73.07
+Kab. Soppeng,73,7312,73.12
+Kab. Takalar,73,7305,73.05
+Kab. Tana Toraja,73,7318,73.18
+Kab. Toraja Utara,73,7326,73.26
+Kab. Wajo,73,7313,73.13
+Kota Makassar,73,7371,73.71
+Kota Palopo,73,7373,73.73
+Kota Pare-pare,73,7372,73.72
+Prov. Sulawesi Selatan,73,7300,73
+Semua pemda,73,7399,73.99
+Kab. Bombana,74,7406,74.06
+Kab. Buton,74,7401,74.04
+Kab. Buton Selatan,74,7415,74.15
+Kab. Buton Tengah,74,7414,74.14
+Kab. Buton Utara,74,7409,74.1
+Kab. Kolaka,74,7404,74.01
+Kab. Kolaka Timur,74,7411,74.11
+Kab. Kolaka Utara,74,7408,74.08
+Kab. Konawe,74,7403,74.02
+Kab. Konawe Kepulauan,74,7412,74.12
+Kab. Konawe Selatan,74,7405,74.05
+Kab. Konawe Utara,74,7410,74.09
+Kab. Muna,74,7402,74.03
+Kab. Muna Barat,74,7413,74.13
+Kab. Wakatobi,74,7407,74.07
+Kota Bau-bau,74,7472,74.72
+Kota Kendari,74,7471,74.71
+Prov. Sulawesi Tenggara,74,7400,74
+Semua pemda,74,7499,74.99
+Kab. Boalemo,75,7501,75.02
+Kab. Bone Bolango,75,7504,75.03
+Kab. Gorontalo,75,7502,75.01
+Kab. Gorontalo Utara,75,7505,75.05
+Kab. Pohuwato,75,7503,75.04
+Kota Gorontalo,75,7571,75.71
+Prov. Gorontalo,75,7500,75
+Semua pemda,75,7599,75.99
+Kab. Majene,76,7601,76.05
+Kab. Mamasa,76,7603,76.03
+Kab. Mamuju,76,7604,76.02
+Kab. Mamuju Tengah,76,7606,76.06
+Kab. Mamuju Utara,76,7605,76.01
+Kab. Polewali Mandar,76,7602,76.04
+Prov. Sulawesi Barat,76,7600,76
+Semua pemda,76,7699,76.99
+Kab. Buru,81,8104,81.04
+Kab. Buru Selatan,81,8109,81.09
+Kab. Kepulauan Aru,81,8105,81.07
+Kab. Maluku Barat Daya,81,8108,81.08
+Kab. Maluku Tengah,81,8103,81.01
+Kab. Maluku Tenggara,81,8102,81.02
+Kab. Maluku Tenggara Barat,81,8101,81.03
+Kab. Seram Bagian Barat,81,8106,81.06
+Kab. Seram Bagian Timur,81,8107,81.05
+Kota Ambon,81,8171,81.71
+Kota Tual,81,8172,81.72
+Prov. Maluku,81,8100,81
+Semua pemda,81,8199,81.99
+Kab. Halmahera Barat,82,8201,82.01
+Kab. Halmahera Selatan,82,8204,82.04
+Kab. Halmahera Tengah,82,8202,82.02
+Kab. Halmahera Timur,82,8206,82.06
+Kab. Halmahera Utara,82,8205,82.03
+Kab. Kepulauan Sula,82,8203,82.05
+Kab. Pulau Morotai,82,8207,82.07
+Kab. Pulau Taliabu,82,8208,82.08
+Kota Ternate,82,8271,82.71
+Kota Tidore Kepulauan,82,8272,82.72
+Prov. Maluku Utara,82,8200,82
+Semua pemda,82,8299,82.99
+Kab. Fak Fak,91,9101,92.03
+Kab. Kaimana,91,9102,92.08
+Kab. Manokwari,91,9105,92.02
+Kab. Manokwari Selatan,91,9111,92.11
+Kab. Maybrat,91,9110,92.1
+Kab. Pegunungan Arfak,91,9112,92.12
+Kab. Raja Ampat,91,9108,92.05
+Kab. Sorong,91,9107,92.01
+Kab. Sorong Selatan,91,9106,92.04
+Kab. Tambrauw,91,9109,92.09
+Kab. Teluk Bintuni,91,9104,92.06
+Kab. Teluk Wondama,91,9103,92.07
+Kota Sorong,91,9171,92.71
+Prov. Papua Barat,91,9100,92
+Semua pemda,91,9199,92.99
+Kab. Asmat,94,9415,91.18
+Kab. Biak Numfor,94,9409,91.06
+Kab. Boven Digoel,94,9413,91.16
+Kab. Deiyai,94,9436,91.28
+Kab. Dogiyai,94,9434,91.26
+Kab. Intan Jaya,94,9435,91.27
+Kab. Jayapura,94,9403,91.03
+Kab. Jayawijaya,94,9402,91.02
+Kab. Keerom,94,9420,91.11
+Kab. Kepulauan Yapen,94,9408,91.05
+Kab. Lanny Jaya,94,9430,91.23
+Kab. Mamberamo Raya,94,9428,91.2
+Kab. Mamberamo Tengah,94,9431,91.21
+Kab. Mappi,94,9414,91.17
+Kab. Merauke,94,9401,91.01
+Kab. Mimika,94,9412,91.09
+Kab. Nabire,94,9404,91.04
+Kab. Nduga,94,9429,91.24
+Kab. Paniai,94,9410,91.08
+Kab. Pegunungan Bintang,94,9417,91.12
+Kab. Puncak,94,9433,91.25
+Kab. Puncak Jaya,94,9411,91.07
+Kab. Sarmi,94,9419,91.1
+Kab. Supiori,94,9427,91.19
+Kab. Tolikara,94,9418,91.14
+Kab. Waropen,94,9426,91.15
+Kab. Yahukimo,94,9416,91.13
+Kab. Yalimo,94,9432,91.22
+Kota Jayapura,94,9471,91.71
+Prov. Papua,94,9400,91
+Semua pemda,94,9499,91.99
