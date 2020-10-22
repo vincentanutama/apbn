@@ -31,16 +31,30 @@
   
   # Add categories
   code <- read.csv('01_Data/01_Raw/djpkcode.csv')
-  # merge now
+  code <- code[-2,-2] # Remove direct CIV for now
+  colnames(code) <- c('Akun', 'Code')
+  data <- dplyr::left_join(data, code)
+  # replace indirect CIV
+  civ  <- which(data$Code=='APBD.EXP.DIR.SUM') + 1
+  data$Code[civ] <- ifelse(data$Code[civ] == 'APBD.EXP.IND.CIV', 'APBD.EXP.DIR.CIV',
+                           data$Code[civ])
   
   # Combine with BPS kabupatne code
-  # combine provcode
-  
+  bps  <- read.csv('01_Data/01_Raw/bpsdagri_code_crosswalk.csv')
+  bps$dagricode <- sprintf('%.2f', bps$dagricode)
+  data <- dplyr::left_join(data, bps)
+  colnames(data) <- c('Akun', 'Alokasi', 'Realisasi', 'Tipe', 'Tahun',
+                      'Provinsi', 'Kabupaten', 'Provcode', 'Persen', 'Akuncode', 'bpscode', 'dagricode')
+    
   # Check sums
-  
-  
   
   # Summary statistics
   
+  # Save data
+  saveRDS(data, '01_Data/04_Output/apbd1020tkdd1820.rds')
+  
+  # Nkabkota
+  kode <- sort(unique(as.character(data$bpscode)))
+  N    <- length(which(!grepl('..(00|99)', kode))) # No jakarta kota/pulauseribu
   
   
